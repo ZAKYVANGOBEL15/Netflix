@@ -48,7 +48,7 @@ body {
 /* container  */
 
 .container {
-    background-image: url('/componen/header-image.png');
+    background-image: url('componen/header-image.png');
     height: 100vh;
     position: relative;
     background-size: cover;
